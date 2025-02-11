@@ -5,3 +5,9 @@ BlobBypass is an exploit that allows Chromebook users to bypass website restrict
 - You can right-click on the window to go back and forward.
 - There's no good way to make the text in the window larger.
 - You can't log into non-school accounts.
+
+- There is a new version :
+
+## [BlobBypass](https://fm7rp5.csb.app/dashboard?utm_source=homescreen)
+(Do not leak my name)
+  
